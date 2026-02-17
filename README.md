@@ -1,8 +1,4 @@
 
-Kashish Rawat
-1:51 PM (0 minutes ago)
-to me
-
 # 🪔 Diwali Sales Analysis (EDA)
 
 ## 📌 Project Overview  
